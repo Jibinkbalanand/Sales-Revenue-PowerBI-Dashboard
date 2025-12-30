@@ -340,3 +340,5 @@ Jibin K B
 
 📧 Email: jibinkbalanand@gmail.com
 
+## 📸 Dashboard Preview
+![Dashboard Screenshot](Sales-Revenue-PowerBI-Dashboard_Screenshot.png)
